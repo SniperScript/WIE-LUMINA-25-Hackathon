@@ -1,6 +1,10 @@
 # GIT LOST
 ## WIE LUMINA 25 Hackathon
-#### Members: Pradyumna Verma, Animesh Kansal, Raunit Lakhmani, Bhavyaa Chauhan
+#### Members: 
+              Pradyumna Verma(Team Leader, ML Enginner of the team)
+              Animesh Kansal(Backend , Frontend head)
+              Raunit Lakhmani(Frontend Developer)
+              Bhavyaa Chauhan(Backend Developer)
 
 ## IDEA:- Centralized Student-Alumni Engagement Platform
 A web platform designed to connect students and alumni of a specific university. This project bridges the gap between current students seeking guidance and experienced alumni willing to provide mentorship, share opportunities, and foster a strong community.
