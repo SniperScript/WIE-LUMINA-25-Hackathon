@@ -5,9 +5,9 @@
    
    #### Animesh Kansal(Backend , Frontend head)
    
-   #### Raunit Lakhmani(Frontend Developer)
+   #### Raunit Lakhmani(Frontend, Backend Developer)
    
-   #### Bhavyaa Chauhan(Backend Developer)
+   #### Bhavyaa Chauhan(Frontend Developer)
 
 ## IDEA:- Centralized Student-Alumni Engagement Platform
 A web platform designed to connect students and alumni of a specific university. This project bridges the gap between current students seeking guidance and experienced alumni willing to provide mentorship, share opportunities, and foster a strong community.
@@ -29,6 +29,8 @@ Community Groups: Allows users to join communities based on interests (e.g., "We
 
 Events & Achievements: A section to highlight university news, student achievements, and upcoming alumni events.
 
+LINUX friendly: Deployed model on flask in a way that it works on LINUX !
+
 ### 🛠️ Tech Stack
 
 
@@ -36,7 +38,7 @@ Frontend: Static HTML, Tailwind CSS
 
 Machine Learning: Python, Scikit-learn, Pandas, Jupyter Notebook
 
-Backend: Deployed the ML models on streamlit so any user can just download the app1.py and app2.py from our repo and run them on their own local host server.
+Backend: Deployed the ML models on streamlit so any user can just download the app1.py and app2.py from our repo and run them on their own local host server. Deployed the model on Flask for LINUX as well.
 
 ### 🤖 Machine Learning Models
 
